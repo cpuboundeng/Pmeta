@@ -1,0 +1,49 @@
+{
+   "pmeta":{
+      "version":"1.0"
+   },
+   "repository":{
+      "studio_id":"kink.com", #String, lowercase
+      "name":"Kink"           #String
+      "desc":"",              #String, [optional]
+      "site":"https://kink.com"   #String, [optional]
+   },
+   "releases":[
+      {
+         "scene_id":"25397",            #Integer
+         "channel":"thetrainingofo",    #String, [optional]
+         "title":"Training Anikka Albrite - Day 1",   #String
+         "description":"Anikka new to BDSM, and has no idea what she has signed up for.",     #String, [optional]
+         "premiere_date":"2012-10-26",            #String, [optional], YYYY-MM-DD
+         "actors":[                     #String, [optional]
+            "Anikka Albrite",
+            "Maestro Stefanos"
+         ],
+         "director":"",                 #String, [optional]
+         "genres":[                     #String, [optional]
+            "anal",
+            "bdsm",
+            "blonde"
+         ],
+         "url":""                       #String, [optional]
+      },
+      {
+         "scene_id":"",                 #Integer
+         "channel":"",                  #String, [optional]
+         "title":"",                    #String
+         "description":"",              #String, [optional]
+         "premiere_date":"",            #String, [optional], DD-MM-YYY
+         "actors":[                     #String, [optional]
+            "",
+            ""
+         ],
+         "director":"",                 #String, [optional]
+         "genres":[                     #String, [optional]
+            "",
+            "",
+            ""
+         ],
+         "url":""                       #String, [optional]
+      }
+   ]
+}
